@@ -65,3 +65,10 @@ Brazilian E-Commerce Public Dataset by Olist.
 Sai Teja
 
 **GitHub:** https://github.com/Saitejarst
+
+## Power BI Dashboard
+### Executive Overview
+![Executive Overview](Executive_overview.png)
+
+### Customer Churn & Revenue Risk
+![Customer Churn Analysis](customer_churn_analysis.png)
